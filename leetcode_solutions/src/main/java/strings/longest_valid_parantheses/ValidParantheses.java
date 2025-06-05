@@ -1,4 +1,4 @@
-package strings;
+package strings.longest_valid_parantheses;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package strings.LongSubstringWithoutRepChar;
+package strings.longsubstring_without_repeating_char;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -8,9 +8,10 @@ public class LongSubStringWithoutRepCharTest {
 
     public static void main(String[] args) {
 
-       System.out.println( lengthOfLongestSubString("abcabcd"));
+        //System.out.println( lengthOfLongestSubString("abcabcd"));
+       // System.out.println( lengthOfLongestSubString("dgyueddi"));
         System.out.println( lengthOfLongestSubStringUsingMap("abcabcd"));
-        System.out.println( lengthOfLongestSubStringUsingSubString("abcabcd"));
+       // System.out.println( lengthOfLongestSubStringUsingSubString("abcabcd"));
     }
 
     public static int lengthOfLongestSubString(String s) {

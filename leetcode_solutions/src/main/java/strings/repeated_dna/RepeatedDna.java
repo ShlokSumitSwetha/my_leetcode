@@ -1,4 +1,4 @@
-package strings;
+package strings.repeated_dna;
 
 import java.util.ArrayList;
 import java.util.HashMap;

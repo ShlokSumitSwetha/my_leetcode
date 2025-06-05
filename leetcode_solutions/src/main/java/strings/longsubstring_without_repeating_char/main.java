@@ -1,4 +1,4 @@
-package strings.LongSubstringWithoutRepChar;
+package strings.longsubstring_without_repeating_char;
 
 public class main {
 

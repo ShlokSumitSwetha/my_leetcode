@@ -1,4 +1,4 @@
-package strings.MinStringLength;
+package strings.min_string_length;
 
 /**
  * Input: s = "ABFCACDB"

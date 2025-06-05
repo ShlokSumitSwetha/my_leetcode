@@ -1,10 +1,10 @@
-package strings;
+package strings.longest_valid_parantheses;
 
 import java.util.Stack;
 
 public class ValidParanthesesCount {
     public static void main(String[] args) {
-        System.out.println(isValid("{{{({))}}}}"));
+        System.out.println(isValid("{{{({})}}}}"));
         System.out.println(isValid(")("));
     }
     public static int isValid(String s) {

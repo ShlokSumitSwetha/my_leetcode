@@ -1,8 +1,8 @@
-package strings.StringToInteger;
+package strings.string_to_integer;
 
 public class StringToIntegerTest {
 	public static void main(String[] args) {
-		System.out.println(myAtoi("words and 987"));
+		System.out.println(myAtoi("-1337c0d3"));
 	}
 
 	public static int myAtoi(String s) {

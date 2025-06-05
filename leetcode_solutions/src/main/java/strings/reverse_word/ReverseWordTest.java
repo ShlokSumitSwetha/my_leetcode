@@ -1,4 +1,4 @@
-package strings.ReverseWord;
+package strings.reverse_word;
 
 import java.util.ArrayList;
 import java.util.Collections;

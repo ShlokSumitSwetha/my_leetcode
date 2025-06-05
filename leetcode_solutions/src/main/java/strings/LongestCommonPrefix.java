@@ -4,6 +4,7 @@ package strings;
 
 		public static void main(String[] args) {
 			String[] arrays= {"Leetcode", "Leeeee", "Lee"};
+
 			System.out.println(longestCommonPrefix(arrays));
 		}
 		public static String longestCommonPrefix(String[] strs) {

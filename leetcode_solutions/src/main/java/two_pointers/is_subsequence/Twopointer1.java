@@ -1,4 +1,4 @@
-package two_pointers;
+package two_pointers.is_subsequence;
 
 public class Twopointer1 {
 

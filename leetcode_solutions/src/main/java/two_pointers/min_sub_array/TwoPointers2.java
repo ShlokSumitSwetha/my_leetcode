@@ -1,4 +1,4 @@
-package two_pointers;
+package two_pointers.min_sub_array;
 
 public class TwoPointers2 {
 

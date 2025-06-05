@@ -1,4 +1,4 @@
-package strings.LongestPalindromicSubString;
+package strings.longest_palindromic_subString;
 
 public class main {
 	public static void main(String[] args) {
