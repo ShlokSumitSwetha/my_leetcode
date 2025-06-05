@@ -1,4 +1,4 @@
-package strings;
+package strings.anagram;
 
 class Anagram1 {
 
