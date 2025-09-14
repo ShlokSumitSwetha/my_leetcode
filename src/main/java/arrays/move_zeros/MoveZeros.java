@@ -1,5 +1,17 @@
 package arrays.move_zeros;
 
+/**
+ * ✅ Example:
+ *
+ * Input:
+ *
+ * [0, 1, 0, 3, 12]
+ *
+ * Output
+ *
+ * [1, 3, 12, 0, 0]
+ */
+
 public class MoveZeros {
     public static void moveZeroes(int[] nums) {
         int insertPos = 0;

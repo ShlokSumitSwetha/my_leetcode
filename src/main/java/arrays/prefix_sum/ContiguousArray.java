@@ -1,7 +1,6 @@
 package arrays.prefix_sum;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class ContiguousArray {
 	public static void main(String[] args) {
